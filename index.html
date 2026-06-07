@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ISMUBA CERDAS</title>
+
+<style>
+body{
+    font-family:Arial,sans-serif;
+    margin:0;
+    background:#f4f7f5;
+}
+
+.header{
+    background:#00894d;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+
+.container{
+    padding:20px;
+    max-width:600px;
+    margin:auto;
+}
+
+.card{
+    background:white;
+    border-radius:15px;
+    padding:20px;
+    margin:15px 0;
+    box-shadow:0 2px 10px rgba(0,0,0,.1);
+}
+
+button{
+    width:100%;
+    padding:15px;
+    margin:10px 0;
+    border:none;
+    border-radius:12px;
+    background:#00894d;
+    color:white;
+    font-size:16px;
+}
+
+#quiz{
+    display:none;
+}
+
+.jawaban{
+    background:white;
+    color:black;
+    border:1px solid #ddd;
+}
+</style>
+
+</head>
+<body>
+
+<div class="header">
+<h1>🕌 ISMUBA CERDAS</h1>
+<p>Kuis SMA Muhammadiyah</p>
+</div>
+
+<div class="container">
+
+<div id="menu" class="card">
+
+<h2>Pilih Mata Pelajaran</h2>
+
+<button onclick="mulai('Al-Islam')">
+🕌 Al-Islam
+</button>
+
+<button onclick="mulai('Kemuhammadiyahan')">
+🌿 Kemuhammadiyahan
+</button>
+
+<button onclick="mulai('Bahasa Arab')">
+🇸🇦 Bahasa Arab
+</button>
+
+</div>
+
+<div id="quiz" class="card">
+<h2 id="judul"></h2>
+
+<p id="soal">
+Rukun Islam berjumlah...
+</p>
+
+<button class="jawaban" onclick="benar()">
+5
+</button>
+
+<button class="jawaban" onclick="salah()">
+4
+</button>
+
+<button class="jawaban" onclick="salah()">
+6
+</button>
+
+<button class="jawaban" onclick="salah()">
+7
+</button>
+
+<h3 id="hasil"></h3>
+
+</div>
+
+</div>
+
+<script>
+function mulai(mapel){
+document.getElementById("menu").style.display="none";
+document.getElementById("quiz").style.display="block";
+document.getElementById("judul").innerHTML=mapel;
+}
+
+function benar(){
+document.getElementById("hasil").innerHTML=
+"✅ Jawaban Benar";
+}
+
+function salah(){
+document.getElementById("hasil").innerHTML=
+"❌ Jawaban Salah";
+}
+</script>
+
+</body>
+</html>
