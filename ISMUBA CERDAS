@@ -1,0 +1,754 @@
+islam:[
+{
+t:"Rukun Islam berjumlah...",
+o:["3","4","5","6"],
+a:2
+},
+{
+t:"Rukun Iman berjumlah...",
+o:["4","5","6","7"],
+a:2
+},
+{
+t:"Kitab suci umat Islam adalah...",
+o:["Taurat","Zabur","Injil","Al-Qur'an"],
+a:3
+},
+{
+t:"Nabi terakhir adalah...",
+o:["Nabi Musa","Nabi Isa","Nabi Muhammad SAW","Nabi Ibrahim"],
+a:2
+},
+{
+t:"Surah pertama dalam Al-Qur'an adalah...",
+o:["Al-Ikhlas","Al-Fatihah","An-Nas","Al-Baqarah"],
+a:1
+},
+{
+t:"Jumlah rakaat salat Subuh adalah...",
+o:["2","3","4","5"],
+a:0
+},
+{
+t:"Zakat fitrah dikeluarkan pada bulan...",
+o:["Rajab","Syawal","Ramadan","Muharram"],
+a:2
+},
+{
+t:"Puasa wajib dilaksanakan pada bulan...",
+o:["Muharram","Ramadan","Rajab","Syawal"],
+a:1
+},
+{
+t:"Haji wajib bagi yang...",
+o:["Pandai","Kaya","Mampu","Tua"],
+a:2
+},
+{
+t:"Malaikat pencatat amal baik adalah...",
+o:["Munkar","Nakir","Raqib","Malik"],
+a:2
+},
+{
+t:"Malaikat penyampai wahyu adalah...",
+o:["Israfil","Jibril","Mikail","Izrail"],
+a:1
+},
+{
+t:"Peristiwa turunnya Al-Qur'an pertama kali terjadi di...",
+o:["Gua Hira","Madinah","Thaif","Masjidil Haram"],
+a:0
+},
+{
+t:"Ayat pertama yang turun adalah...",
+o:["Al-Fatihah","Iqra'","An-Nas","Al-Ikhlas"],
+a:1
+},
+{
+t:"Lawan dari sifat amanah adalah...",
+o:["Jujur","Khianat","Tablig","Fathanah"],
+a:1
+},
+{
+t:"Sifat wajib rasul yang berarti jujur adalah...",
+o:["Amanah","Tablig","Shidiq","Fathanah"],
+a:2
+},
+{
+t:"Sifat wajib rasul yang berarti cerdas adalah...",
+o:["Fathanah","Amanah","Shidiq","Tablig"],
+a:0
+},
+{
+t:"Hijrah Nabi Muhammad SAW ke Madinah terjadi pada tahun...",
+o:["610 M","622 M","632 M","570 M"],
+a:1
+},
+{
+t:"Salat Jumat dilaksanakan sebanyak ... rakaat.",
+o:["2","3","4","5"],
+a:0
+},
+{
+t:"Jumlah nabi dan rasul yang wajib diketahui adalah...",
+o:["20","25","30","99"],
+a:1
+},
+{
+t:"Kitab Zabur diturunkan kepada Nabi...",
+o:["Musa","Daud","Isa","Ibrahim"],
+a:1
+}
+]
+{
+t:"Kitab Taurat diturunkan kepada Nabi...",
+o:["Isa","Daud","Musa","Ibrahim"],
+a:2
+},
+{
+t:"Kitab Injil diturunkan kepada Nabi...",
+o:["Isa","Musa","Daud","Nuh"],
+a:0
+},
+{
+t:"Malaikat yang bertugas meniup sangkakala adalah...",
+o:["Jibril","Mikail","Israfil","Izrail"],
+a:2
+},
+{
+t:"Malaikat yang bertugas mencabut nyawa adalah...",
+o:["Ridwan","Malik","Izrail","Raqib"],
+a:2
+},
+{
+t:"Salat yang dikerjakan setelah matahari terbit adalah...",
+o:["Tahajud","Dhuha","Witir","Istikharah"],
+a:1
+},
+{
+t:"Jumlah rakaat salat Zuhur adalah...",
+o:["2","3","4","5"],
+a:2
+},
+{
+t:"Jumlah rakaat salat Asar adalah...",
+o:["2","4","3","5"],
+a:1
+},
+{
+t:"Jumlah rakaat salat Magrib adalah...",
+o:["2","3","4","5"],
+a:1
+},
+{
+t:"Jumlah rakaat salat Isya adalah...",
+o:["2","3","4","5"],
+a:2
+},
+{
+t:"Surah terpanjang dalam Al-Qur'an adalah...",
+o:["Al-Fatihah","Yasin","Al-Baqarah","An-Nas"],
+a:2
+},
+{
+t:"Lailatul Qadar terjadi pada bulan...",
+o:["Muharram","Rajab","Ramadan","Syawal"],
+a:2
+},
+{
+t:"Orang yang menerima zakat disebut...",
+o:["Muzakki","Mustahik","Amil","Mukmin"],
+a:1
+},
+{
+t:"Orang yang mengeluarkan zakat disebut...",
+o:["Mustahik","Amil","Muzakki","Fakir"],
+a:2
+},
+{
+t:"Wudu termasuk syarat sah...",
+o:["Puasa","Haji","Salat","Zakat"],
+a:2
+},
+{
+t:"Menghadap kiblat termasuk syarat sah...",
+o:["Puasa","Salat","Sedekah","Haji"],
+a:1
+},
+{
+t:"Nabi yang mendapat julukan Khalilullah adalah...",
+o:["Muhammad","Musa","Ibrahim","Nuh"],
+a:2
+},
+{
+t:"Nabi yang mendapat julukan Kalimullah adalah...",
+o:["Isa","Daud","Musa","Yusuf"],
+a:2
+},
+{
+t:"Perintah puasa Ramadan terdapat dalam surah...",
+o:["Al-Baqarah","Al-Ikhlas","An-Nas","Al-Kafirun"],
+a:0
+},
+{
+t:"Hari raya setelah Ramadan disebut...",
+o:["Idul Adha","Isra Mikraj","Idul Fitri","Maulid Nabi"],
+a:2
+},
+{
+t:"Hari raya kurban disebut...",
+o:["Idul Fitri","Idul Adha","Tahun Baru Hijriah","Asyura"],
+a:1
+},
+{
+t:"Jumlah juz dalam Al-Qur'an adalah...",
+o:["20","25","30","40"],
+a:2
+},
+{
+t:"Jumlah surah dalam Al-Qur'an adalah...",
+o:["110","112","114","120"],
+a:2
+},
+{
+t:"Ibadah yang dilakukan dengan menyembelih hewan pada Idul Adha disebut...",
+o:["Aqiqah","Kurban","Zakat","Wakaf"],
+a:1
+},
+{
+t:"Sedekah jariyah yang manfaatnya terus mengalir disebut...",
+o:["Wakaf","Hibah","Hadiah","Pinjaman"],
+a:0
+},
+{
+t:"Islam mengajarkan sikap terhadap orang tua berupa...",
+o:["Durhaka","Menghina","Birrul Walidain","Membantah"],
+a:2
+},
+{
+t:"Salah satu nama lain Al-Qur'an adalah...",
+o:["Al-Furqan","Az-Zabur","At-Taurat","Al-Injil"],
+a:0
+},
+{
+t:"Peristiwa perjalanan malam Nabi Muhammad SAW disebut...",
+o:["Hijrah","Isra","Badar","Fathu Makkah"],
+a:1
+},
+{
+t:"Perang besar pertama umat Islam adalah...",
+o:["Uhud","Khandaq","Badar","Hunain"],
+a:2
+},
+{
+t:"Kota kelahiran Nabi Muhammad SAW adalah...",
+o:["Madinah","Thaif","Makkah","Yaman"],
+a:2
+},
+{
+t:"Tahun wafat Nabi Muhammad SAW adalah...",
+o:["610 M","622 M","632 M","640 M"],
+a:2
+},
+{muhammadiyah:[
+{
+t:"Muhammadiyah didirikan pada tanggal...",
+o:["18 November 1912","20 Mei 1908","17 Agustus 1945","28 Oktober 1928"],
+a:0
+},
+{
+t:"Pendiri Muhammadiyah adalah...",
+o:["KH Ahmad Dahlan","KH Hasyim Asy'ari","Hamka","Ki Bagus Hadikusumo"],
+a:0
+},
+{
+t:"Nama kecil KH Ahmad Dahlan adalah...",
+o:["Muhammad Darwis","Abdul Mu'ti","Mas Mansur","Fakhruddin"],
+a:0
+},
+{
+t:"Muhammadiyah didirikan di kota...",
+o:["Jakarta","Surabaya","Yogyakarta","Bandung"],
+a:2
+},
+{
+t:"Tujuan Muhammadiyah adalah menegakkan dan menjunjung tinggi...",
+o:["Kebudayaan","Ekonomi","Agama Islam","Politik"],
+a:2
+},
+{
+t:"Lambang Muhammadiyah berbentuk...",
+o:["Bintang","Matahari","Bulan","Perisai"],
+a:1
+},
+{
+t:"Jumlah sinar pada lambang Muhammadiyah adalah...",
+o:["10","11","12","15"],
+a:2
+},
+{
+t:"Tulisan Arab pada lambang Muhammadiyah berbunyi...",
+o:["Allahu Akbar","Bismillah","Muhammadiyah","Syahadat"],
+a:2
+},
+{
+t:"Organisasi pelajar Muhammadiyah adalah...",
+o:["NA","IPM","HW","Tapak Suci"],
+a:1
+},
+{
+t:"IPM merupakan singkatan dari...",
+o:["Ikatan Pelajar Muhammadiyah","Ikatan Pemuda Muhammadiyah","Ikatan Putra Muhammadiyah","Ikatan Pendidikan Muhammadiyah"],
+a:0
+},
+{
+t:"Organisasi kepanduan Muhammadiyah adalah...",
+o:["Pramuka","IPM","Hizbul Wathan","NA"],
+a:2
+},
+{
+t:"Hizbul Wathan berarti...",
+o:["Pembela Tanah Air","Pasukan Islam","Pecinta Bangsa","Pemuda Islam"],
+a:0
+},
+{
+t:"Tapak Suci adalah organisasi bidang...",
+o:["Pendidikan","Olahraga","Seni","Bela Diri"],
+a:3
+},
+{
+t:"Aisyiyah merupakan organisasi otonom Muhammadiyah untuk...",
+o:["Anak-anak","Perempuan","Pelajar","Ulama"],
+a:1
+},
+{
+t:"Nasyiatul Aisyiyah disingkat...",
+o:["NA","IA","NM","PA"],
+a:0
+},
+{
+t:"Pemuda Muhammadiyah merupakan ortom untuk...",
+o:["Lansia","Anak-anak","Pemuda","Guru"],
+a:2
+},
+{
+t:"Muhammadiyah dikenal sebagai gerakan...",
+o:["Politik","Dakwah dan Tajdid","Perdagangan","Militer"],
+a:1
+},
+{
+t:"Tajdid berarti...",
+o:["Perpecahan","Pembaruan","Perlawanan","Kekuasaan"],
+a:1
+},
+{
+t:"Muktamar Muhammadiyah dilaksanakan secara...",
+o:["Rutin","Insidental","Berkala","Rahasia"],
+a:2
+},
+{
+t:"Kitab yang menjadi dasar utama Muhammadiyah adalah...",
+o:["Al-Qur'an dan Hadis","Kitab Kuning","Tafsir Modern","Ijma Ulama"],
+a:0
+},
+{
+t:"Muhammadiyah termasuk organisasi Islam yang bersifat...",
+o:["Politik","Militer","Kemasyarakatan","Bisnis"],
+a:2
+},
+{
+t:"Majelis yang menangani pendidikan di Muhammadiyah adalah...",
+o:["Majelis Dikdasmen","Majelis Tabligh","Majelis Tarjih","Majelis Wakaf"],
+a:0
+},
+{
+t:"Majelis Tarjih berfungsi dalam bidang...",
+o:["Olahraga","Hukum Islam","Keuangan","Pendidikan"],
+a:1
+},
+{
+t:"Muhammadiyah menekankan pemurnian ajaran Islam dari...",
+o:["Ilmu","Ibadah","TBC","Organisasi"],
+a:2
+},
+{
+t:"TBC dalam Muhammadiyah berarti...",
+o:["Tahayul, Bid'ah, Khurafat","Taat, Benar, Cerdas","Tafsir, Bayan, Cita-cita","Tajdid, Bina, Cerdas"],
+a:0
+}
+]{
+t:"KH Ahmad Dahlan lahir di kota...",
+o:["Jakarta","Yogyakarta","Surabaya","Solo"],
+a:1
+},
+{
+t:"Muhammadiyah berdiri pada masa penjajahan...",
+o:["Belanda","Jepang","Inggris","Portugis"],
+a:0
+},
+{
+t:"Ajaran Muhammadiyah berlandaskan Al-Qur'an dan...",
+o:["Tradisi","Hadis","Budaya","Politik"],
+a:1
+},
+{
+t:"Gerakan Muhammadiyah bersifat...",
+o:["Eksklusif","Terbuka","Rahasia","Tertutup"],
+a:1
+},
+{
+t:"Lembaga pendidikan Muhammadiyah disebut...",
+o:["Amal Usaha Muhammadiyah","Majelis Tarjih","Ortom","Cabang"],
+a:0
+},
+{
+t:"Rumah sakit Muhammadiyah termasuk...",
+o:["Ortom","Amal Usaha Muhammadiyah","Pimpinan Pusat","Majelis"],
+a:1
+},
+{
+t:"Universitas Muhammadiyah termasuk...",
+o:["Amal Usaha Muhammadiyah","Ortom","Cabang","Ranting"],
+a:0
+},
+{
+t:"IPM bergerak di bidang...",
+o:["Pelajar","Guru","Ulama","Pedagang"],
+a:0
+},
+{
+t:"Warna yang dominan pada lambang Muhammadiyah adalah...",
+o:["Merah","Hijau","Biru","Kuning"],
+a:3
+},
+{
+t:"Matahari pada lambang Muhammadiyah melambangkan...",
+o:["Kekuasaan","Pencerahan","Kekayaan","Perdagangan"],
+a:1
+},
+{
+t:"Muhammadiyah didirikan untuk memajukan kehidupan umat melalui...",
+o:["Pendidikan dan Dakwah","Perang","Politik Praktis","Perdagangan"],
+a:0
+},
+{
+t:"Organisasi perempuan dewasa Muhammadiyah adalah...",
+o:["NA","Aisyiyah","IPM","HW"],
+a:1
+},
+{
+t:"Gerakan Muhammadiyah menolak praktik yang tidak memiliki dasar kuat dalam agama seperti...",
+o:["Salat","Puasa","TBC","Zakat"],
+a:2
+},
+{
+t:"Salah satu tokoh besar Muhammadiyah adalah...",
+o:["Buya Hamka","Patih Gajah Mada","Diponegoro","Cut Nyak Dien"],
+a:0
+},
+{
+t:"Muhammadiyah memiliki semboyan kembali kepada...",
+o:["Budaya","Tradisi","Al-Qur'an dan Hadis","Mazhab"],
+a:2
+},
+{
+t:"Pimpinan Muhammadiyah tingkat desa/kelurahan disebut...",
+o:["Pusat","Wilayah","Daerah","Ranting"],
+a:3
+},
+{
+t:"Pimpinan Muhammadiyah tingkat kabupaten/kota disebut...",
+o:["Daerah","Wilayah","Pusat","Ranting"],
+a:0
+},
+{
+t:"Pimpinan Muhammadiyah tingkat provinsi disebut...",
+o:["Daerah","Pusat","Wilayah","Cabang"],
+a:2
+},
+{
+t:"Pimpinan Muhammadiyah tingkat nasional disebut...",
+o:["Wilayah","Daerah","Cabang","Pusat"],
+a:3
+},
+{
+t:"Muktamar merupakan forum permusyawaratan tertinggi Muhammadiyah pada tingkat...",
+o:["Cabang","Daerah","Wilayah","Nasional"],
+a:3
+},
+{
+t:"Muhammadiyah berupaya mewujudkan masyarakat Islam yang...",
+o:["Terpecah","Sebenar-benarnya","Tertutup","Lemah"],
+a:1
+},
+{
+t:"Tapak Suci merupakan perguruan...",
+o:["Musik","Bela Diri","Bahasa","Sains"],
+a:1
+},
+{
+t:"Hizbul Wathan didirikan untuk membina...",
+o:["Kader kepanduan","Pedagang","Politisi","Ulama"],
+a:0
+},
+{
+t:"Muhammadiyah termasuk organisasi Islam yang berdiri sebelum...",
+o:["Kemerdekaan Indonesia","VOC","Kerajaan Majapahit","Reformasi"],
+a:0
+},
+{
+t:"Nilai utama kader Muhammadiyah adalah berilmu, beramal, dan...",
+o:["Berfoya-foya","Berakhlak","Berkuasa","Berdebat"],
+a:1
+}
+{
+t:"دخل berarti...",
+o:["Keluar","Masuk","Duduk","Makan"],
+a:1
+},
+{
+t:"خرج berarti...",
+o:["Masuk","Keluar","Belajar","Pergi"],
+a:1
+},
+{
+t:"أكل berarti...",
+o:["Minum","Makan","Tidur","Menulis"],
+a:1
+},
+{
+t:"شرب berarti...",
+o:["Makan","Belajar","Minum","Membaca"],
+a:2
+},
+{
+t:"Nama ilmu yang mempelajari struktur kalimat bahasa Arab adalah...",
+o:["Sharaf","Nahwu","Balaghah","Arudh"],
+a:1
+},
+{
+t:"Ilmu yang mempelajari perubahan bentuk kata disebut...",
+o:["Nahwu","Sharaf","Tafsir","Hadis"],
+a:1
+},
+{
+t:"Fi'il Madhi menunjukkan waktu...",
+o:["Sekarang","Akan datang","Lampau","Selamanya"],
+a:2
+},
+{
+t:"Fi'il Mudhari' menunjukkan waktu...",
+o:["Sekarang atau akan datang","Lampau","Masa lalu","Tidak tentu"],
+a:0
+},
+{
+t:"Fi'il Amr digunakan untuk...",
+o:["Larangan","Perintah","Pertanyaan","Pujian"],
+a:1
+},
+{
+t:"اكتب termasuk contoh...",
+o:["Fi'il Madhi","Fi'il Mudhari'","Fi'il Amr","Isim"],
+a:2
+},
+{
+t:"يكتب termasuk contoh...",
+o:["Fi'il Madhi","Fi'il Mudhari'","Fi'il Amr","Huruf"],
+a:1
+},
+{
+t:"كتب termasuk contoh...",
+o:["Fi'il Madhi","Fi'il Mudhari'","Fi'il Amr","Khabar"],
+a:0
+},
+{
+t:"Kata guru dalam bahasa Arab adalah...",
+o:["طالب","مدرس","كتاب","بيت"],
+a:1
+},
+{
+t:"Kata siswa dalam bahasa Arab adalah...",
+o:["طالب","مدرس","مكتبة","قلم"],
+a:0
+},
+{
+t:"Kata perpustakaan dalam bahasa Arab adalah...",
+o:["مدرسة","مكتبة","بيت","شارع"],
+a:1
+},
+{
+t:"Kata pena dalam bahasa Arab adalah...",
+o:["قلم","كتاب","باب","فصل"],
+a:0
+},
+{
+t:"Kata باب berarti...",
+o:["Pintu","Jendela","Meja","Kursi"],
+a:0
+},
+{
+t:"Kata كرسي berarti...",
+o:["Meja","Kursi","Lemari","Papan"],
+a:1
+},
+{
+t:"Dalam nahwu, mubtada biasanya berstatus...",
+o:["Majrur","Manshub","Marfu'","Jazm"],
+a:2
+},
+{
+t:"Khabar pada jumlah ismiyah umumnya berstatus...",
+o:["Majrur","Marfu'","Manshub","Majzum"],
+a:1
+},
+{
+t:"Huruf jar menyebabkan isim menjadi...",
+o:["Marfu'","Majzum","Majrur","Manshub"],
+a:2
+},
+{
+t:"Contoh huruf jar adalah...",
+o:["في","كتب","طالب","مدرس"],
+a:0
+},
+{
+t:"في البيت berarti...",
+o:["Ke rumah","Dari rumah","Di rumah","Rumah itu"],
+a:2
+},
+{
+t:"من termasuk jenis...",
+o:["Fi'il","Isim","Huruf Jar","Khabar"],
+a:2
+},
+{
+t:"إلى المدرسة berarti...",
+o:["Di sekolah","Ke sekolah","Dari sekolah","Sekolah itu"],
+a:1
+}arab:[
+{
+t:"Kata كتاب termasuk...",
+o:["Fi'il","Isim","Huruf","Dhamir"],
+a:1
+},
+{
+t:"Kata kerja dalam bahasa Arab disebut...",
+o:["Isim","Fi'il","Huruf","Mubtada"],
+a:1
+},
+{
+t:"Kata penghubung atau partikel dalam bahasa Arab disebut...",
+o:["Fi'il","Isim","Huruf","Khabar"],
+a:2
+},
+{
+t:"أنا artinya...",
+o:["Kamu","Dia","Saya","Kami"],
+a:2
+},
+{
+t:"نحن artinya...",
+o:["Saya","Kami","Mereka","Kalian"],
+a:1
+},
+{
+t:"هو artinya...",
+o:["Dia laki-laki","Dia perempuan","Mereka","Kalian"],
+a:0
+},
+{
+t:"هي artinya...",
+o:["Dia laki-laki","Dia perempuan","Kami","Kalian"],
+a:1
+},
+{
+t:"Apa arti مدرسة ?",
+o:["Rumah","Sekolah","Masjid","Buku"],
+a:1
+},
+{
+t:"Apa arti بيت ?",
+o:["Rumah","Sekolah","Pasar","Jalan"],
+a:0
+},
+{
+t:"Apa arti مسجد ?",
+o:["Rumah","Masjid","Kelas","Kebun"],
+a:1
+},
+{
+t:"Jumlah ismiyah diawali dengan...",
+o:["Fi'il","Isim","Huruf","Angka"],
+a:1
+},
+{
+t:"Jumlah fi'liyah diawali dengan...",
+o:["Isim","Fi'il","Huruf","Dhamir"],
+a:1
+},
+{
+t:"Dalam kalimat الطالب مجتهد , kata الطالب adalah...",
+o:["Khabar","Mubtada","Fi'il","Huruf"],
+a:1
+},
+{
+t:"Dalam kalimat الطالب مجتهد , kata مجتهد adalah...",
+o:["Mubtada","Fi'il","Khabar","Huruf"],
+a:2
+},
+{
+t:"Mudzakkar berarti...",
+o:["Perempuan","Laki-laki","Jamak","Ganda"],
+a:1
+},
+{
+t:"Muannats berarti...",
+o:["Perempuan","Laki-laki","Tunggal","Ganda"],
+a:0
+},
+{
+t:"Mufrad berarti...",
+o:["Tunggal","Ganda","Banyak","Kata kerja"],
+a:0
+},
+{
+t:"Mutsanna berarti...",
+o:["Tunggal","Dua","Banyak","Perempuan"],
+a:1
+},
+{
+t:"Jamak berarti...",
+o:["Tunggal","Dua","Banyak","Fi'il"],
+a:2
+},
+{
+t:"طالبان adalah bentuk...",
+o:["Mufrad","Jamak","Mutsanna","Fi'il"],
+a:2
+},
+{
+t:"طلاب adalah bentuk...",
+o:["Mufrad","Jamak","Mutsanna","Huruf"],
+a:1
+},
+{
+t:"كتب berarti...",
+o:["Dia menulis","Dia membaca","Dia pergi","Dia duduk"],
+a:0
+},
+{
+t:"قرأ berarti...",
+o:["Menulis","Membaca","Makan","Tidur"],
+a:1
+},
+{
+t:"ذهب berarti...",
+o:["Pergi","Datang","Duduk","Belajar"],
+a:0
+},
+{
+t:"جلس berarti...",
+o:["Membaca","Duduk","Berlari","Masuk"],
+a:1
+}
+]
